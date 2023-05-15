@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sude</string>
+    <string name="bilmece_metni">Çarşıdan aldım 1 tane eve geldim 1000 tane </string>
+    <string name="bilmece_cevabi">Nar</string>
+    <string name="saldir">saldır</string>
+    <string name="yemek_ye">Yemek Ye!\n</string>
+    <string name="uyu">Uyu\n</string>
+</resources>
